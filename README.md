@@ -21,3 +21,7 @@ parameters - HFC, spin-spin, ??? - what other?
   which accessible via B1 - what coil/antenna??? proximity required/other considerations
   which B0 range?? are there any interesting regions?
 ^^^iterate^^^
+
+
+
+https://www.surrey.ac.uk/leverhulme-quantum-biology-doctoral-training-centre/research/magnetoreception
