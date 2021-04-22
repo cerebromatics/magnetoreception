@@ -6,14 +6,16 @@ Petri dish ⌀100mm?
 
 stage - 
 
-
-
+PSU:
+<0.4mA ripple noise:
 https://www.ttid.co.uk/dc-power-supplies/bk-precision/bk1740-series
 https://www.metrix-electronics.com/product/bk1745a/
-
+<3mA, cheaper and 3-output:
 https://www.tester.co.uk/siglent-spd3303x-e-power-supply
 
-
+copper wire current capacity:
 https://www.jst.fr/doc/jst/pdf/current_rating.pdf
 
+Helmholtz coil geometry:
+https://1fgu8m1lbzz06hh8dvd76h19-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/helmholtz-single-09.pdf
 
